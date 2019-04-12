@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+I am currently an Undergraduate Student at [IIT Kharagpur](http://www.iitkgp.ac.in) working on Artificial Intelligence at the intersection of __Machine Learning and Quantum Computing Algorithms__. I'm also intriuged by the concept of General Theory of Relativity and Black Holes and love to read about them in my spare time.
 
-You can use the [editor on GitHub](https://github.com/KumarNavish/navish.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Publications:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Analyzing the hate and counter speech accounts on Twitter B Mathew, __N Kumar__, P Goyal, A Mukherjee - arXiv preprint arXiv:1812.02712, 2018 ([abs](https://arxiv.org/abs/1812.02712),[pdf](https://arxiv.org/pdf/1812.02712.pdf))
+- Soon to be added more. Stay Tuned!!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects:
+Yet to come!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KumarNavish/navish.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[CV](https://github.com/KumarNavish/navish-kumar.github.io/blob/master/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=BFCHfngAAAAJ&hl=en) | [Github](https://github.com/KumarNavish) | [LinkedIn](https://www.linkedin.com/in/navish-kumar-890a01152/)
