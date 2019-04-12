@@ -2,7 +2,7 @@ I am currently an Undergraduate Student at [IIT Kharagpur](http://www.iitkgp.ac.
 
 ### Publications:
 
-- Analyzing the hate and counter speech accounts on Twitter B Mathew, __N Kumar__, P Goyal, A Mukherjee - arXiv preprint arXiv:1812.02712, 2018 ([abs](https://arxiv.org/abs/1812.02712),[pdf](https://arxiv.org/pdf/1812.02712.pdf))
+- __Analyzing the hate and counter speech accounts on Twitter__ B Mathew, __N Kumar__, P Goyal, A Mukherjee - arXiv preprint arXiv:1812.02712, 2018 ([abs](https://arxiv.org/abs/1812.02712),[pdf](https://arxiv.org/pdf/1812.02712.pdf))
 - Soon to be added more. Stay Tuned!!
 
 
