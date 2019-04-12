@@ -10,4 +10,4 @@ I am currently an Undergraduate Student at [IIT Kharagpur](http://www.iitkgp.ac.
 Yet to come!
 
 
-[CV](https://github.com/KumarNavish/navish-kumar.github.io/blob/master/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=BFCHfngAAAAJ&hl=en) | [Github](https://github.com/KumarNavish) | [LinkedIn](https://www.linkedin.com/in/navish-kumar-890a01152/)
+[CV](https://github.com/KumarNavish/navish.github.io/blob/master/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=BFCHfngAAAAJ&hl=en) | [Github](https://github.com/KumarNavish) | [LinkedIn](https://www.linkedin.com/in/navish-kumar-890a01152/)
